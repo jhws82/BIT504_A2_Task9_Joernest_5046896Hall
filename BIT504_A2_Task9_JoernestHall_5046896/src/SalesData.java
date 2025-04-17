@@ -4,6 +4,7 @@ public class SalesData {
 	
 	public void display() {
 		System.out.println("TODO: Implement data display");
+		System.out.println("Only display data for 2024");
 		
 	}
 
