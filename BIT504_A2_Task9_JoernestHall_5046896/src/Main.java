@@ -12,6 +12,7 @@ public class Main {
 		System.out.println("Welcome to the Sales Data Program!");
 		System.out.println("This program will display sales data for the year.");
 		System.out.println("THIS APP SHOWS SALES DATA");
+		System.out.println("Sales data for the year 2025!");
 	}
 
 }
